@@ -1,3 +1,3 @@
-# Awesome
-My Awesome config
-Custom Awesome Configs (Rice1)
+# A#wesome
+#My Awesome config
+#Custom Awesome Configs (Rice1)
